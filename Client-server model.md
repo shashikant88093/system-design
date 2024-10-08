@@ -1,11 +1,13 @@
 # Key Terms 
 
-> Client 
+> Client
+ 
   A machine or process that request data or service from a server
 
   Note that a single machine or piece of software can be both a client and a server at the same time. For instance, a single machine could act as aa server for end users and as a client for a database
 
 > Server 
+
   A machine or process that provides data or service for a client, usually by listening for incoming network calls.
   Note that a single machine  or piece of software can be both a client and a server at the same time. For instance, a
   single machine could act as a server for end users and as a client for a database.
@@ -22,6 +24,7 @@
   * 192.168.x.y: Your private network. For instance, your machine and all machine on your private wifi network will usually have the 192.168 prefix
   
 > Port 
+
   In order for multiple programs to listen for new network connections on the same machine without colliding they pick a port to listen on. A port is an integer between 0 to 65,535(2<sup>16</sup> ports total)
 
   Typically, port 0-1023 are reserved for system ports(also called well-known ports) and shouldn't be used by user-level processes.
