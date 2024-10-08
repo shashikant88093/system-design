@@ -16,4 +16,26 @@
   The HyperText Transfer Protocol is very common network protocol implemented on top of TCP. CLients make HTTP requests, and servers respond with a response.
 
   Request typically have the following schema:
+
+  ```
+  host : string (example: algoexport.io)
+  port : integer (example : 80 or 443)
+  method : string (example: GET,PUT,POST,DELETE,OPTIONS or PATCH)
+  header: pair list (example: "Content-Type" => "application/json")
+  body: opaque sequence of bytes
+  ```
+  Response typically have the following schema:
+
+  ```
+  status_code : integer (example: 200,404,500)
+  header: pair list (example: "Content-Type" => 1238)
+  body: opaque sequence of bytes
+  ```
+
+> IP Packet
   
+  Sometimes more broadly referred to as just a (network) **packet**, an IP packet is effectively the smallest unit used to describe
+  data being sent over IP , aside from bytes. An IP packets consist of:
+
+  ** an **IP header**, which contains the source and destination ""IP addresses** as well as other information related to the network
+  ** a **payload**, which is the actual data being sent over the network.
