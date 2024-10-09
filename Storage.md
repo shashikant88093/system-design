@@ -21,7 +21,7 @@
 
 > Memory 
  
-    Short for **Random Access Memory(RAM)**. Data  stored in memory will be <ul>lost<ul> when the process that has written that data dies
+  Short for **Random Access Memory(RAM)**. Data  stored in memory will be <ul>lost<ul> when the process that has written that data dies
 
 > Persistent Storage 
 
