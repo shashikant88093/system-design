@@ -22,8 +22,8 @@
  The time it takes for a certain operation to complete in a system. Most often this measure is a time duration, like milliseconds or second. You should know these orders of magnitude:
 
  - **Reading 1 MB from RAM:** 250 µs (0.25 ms)
- - **Reading 1 MB from SSD:** 1,000 µs (1 ms)
- - **Transfer 1 MB over Network:** 10,000 µs (10 ms)
+ - **Reading 1 MB from SSD:** 1,000 µs (1 ms)  **4 times then Ram**
+ - **Transfer 1 MB over Network:** 10,000 µs (10 ms) **10 times then Network**
  - **Reading 1 MB from HDD:** 20,000 µs (20 ms)
  - **Inter-Continental Round Trip:** 150,000 µs (150 ms)
 
