@@ -6,3 +6,5 @@
 ## Storage
 ## Latency And Throughput
 ## Availability
+## Caching
+## Proxy
