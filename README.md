@@ -9,3 +9,4 @@
 ## Caching
 ## Proxy
 ## Load Balancers
+## Hashing
