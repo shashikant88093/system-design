@@ -10,8 +10,10 @@
 ## Proxy
 ## Load Balancers
 ## Hashing
-
-
+## Relation Database
+## Key-Value Stores
+## Specialized Storage
+## Replication And Sharding
 
 > Link of youtube channel for system Design
 
