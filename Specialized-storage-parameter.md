@@ -165,14 +165,28 @@ Imagine a large square representing a region on a map. A quadtree divides this s
 
 > Google Cloud Storage 
   
+  GCS is a blob storage service provided by Google.
+  
   > S3
+    
+    S3 is blob storage service provided by Amazon throught ***Amazon Web Services (AWS).*** 
 
   > InfuxDB
-
-  > InfluxDB
+    
+    A popular open-source time series database.
+     
+    Learn more : [!influxdata](https://www.influxdata.com)
 
   > Prometheus
+    
+    A popular open-source time series databse, typically used for monitoring purposes.
+
+    Learn more : [!prometheus](https://prometheus.io/)
 
   > Neo4j
+
+    A popular graph database that consists of *** nodes , relationships , properties *** and *** labels. ***
+
+    Learn more : [!neo4j](https://neo4j.com)
 
      
