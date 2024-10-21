@@ -14,6 +14,7 @@
 ## Key-Value Stores
 ## Specialized Storage
 ## Replication And Sharding
+## Leader Election
 
 > Link of youtube channel for system Design
 
