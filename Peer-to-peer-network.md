@@ -7,3 +7,5 @@
 > Gossip Protocal 
 
   When a set of machines talk to each other in a uncoordinated manner in a cluster to spread information through a system without requiring a central source of data.
+
+  [!kraken](https://github.com/uber/kraken)
