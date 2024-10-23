@@ -16,6 +16,7 @@
 ## Replication And Sharding
 ## Leader Election
 ## Peer To Peer Networks
+## Polling and Streaming
 
 > Link of youtube channel for system Design
 
