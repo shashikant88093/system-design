@@ -21,6 +21,7 @@
 ## Rate-limiting
 ## Logging And Monitoring
 ## Publish/ Subscribe Pattern
+## Map Reduce
 
 
 > Link of youtube channel for system Design
