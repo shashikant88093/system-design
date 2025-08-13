@@ -192,8 +192,4 @@ To deepen your knowledge, explore related domains such as:
 - Software Architecture
 - DevOps
 
-## Resources
 
-For further details on tools and services related to system design, visit [x.ai/api](https://x.ai/api) for xAI’s API offerings.
-
-Refer to industry-standard books, blogs, and case studies for practical applications.
