@@ -30,3 +30,35 @@
 2. [!code Karle](https://www.youtube.com/@codeKarle)
 3. [!gaurav sen](https://www.youtube.com/@gkcs)
 4. [!Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
+5. [!bytecode](https://www.youtube.com/@bytecode)
+6. [!bytecode link](https://bytebytego.com/guides/api-web-development/)
+
+# Tools for system design
+- [Lucidchart](https://www.lucidchart.com/pages/)
+- [Draw.io](https://www.diagrams.net/)
+- [Excalidraw](https://excalidraw.com/)
+  
+
+## Projects
+Beginner-friendly projects:
+
+- URL Shortener (TinyURL-like)
+- Rate Limiter API
+- Chat Application (WebSockets)
+- File Sharing Service (like WeTransfer)
+- Real-time Notifications System
+
+Intermediate projects:
+
+- E-commerce backend with cart, payments, and recommendations
+- Video streaming service (YouTube-like)
+- Food delivery app (UberEats clone)
+- Ride-sharing backend (Uber clone)
+- Distributed job scheduler
+  
+Use AWS Free Tier / GCP Free Tier to implement:
+
+- Load balancers (AWS ELB)
+- Queues (SQS, Pub/Sub)
+- Caching (Redis, ElastiCache)
+- Database replication & sharding
