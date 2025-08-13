@@ -33,6 +33,9 @@
 5. [!bytecode](https://www.youtube.com/@bytecode)
 6. [!bytecode link](https://bytebytego.com/guides/api-web-development/)
 
+# Path for system design
+- [System Design Primer](https://roadmap.sh/system-design)
+- 
 # Tools for system design
 - [Lucidchart](https://www.lucidchart.com/pages/)
 - [Draw.io](https://www.diagrams.net/)
