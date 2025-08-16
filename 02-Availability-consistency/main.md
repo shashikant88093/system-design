@@ -107,3 +107,8 @@ ChatterMesh is a robust, distributed chat application designed to balance availa
   - Example: Online gaming or live sports updates where real-time interaction is crucial.
   - Supports features like message broadcasting and event-driven communication.
   - Example: A live chat application where users receive messages instantly without delays.
+
+
+## Important links :-
+- [CAP Theorem Explained](https://www.linkedin.com/pulse/cap-theorem-balancing-consistency-availability-partition-koushik-das/)
+- [Understanding CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
